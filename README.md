@@ -6,13 +6,13 @@ This Power BI project analyzes a dataset gathered by AlexTheAnalyst, a data anal
 The dataset contains responses from data professionals, including details about their roles, tools used, years of experience, education level, job satisfaction, and more. It provides insights into the demographics, preferences, and satisfaction levels of individuals in the data field.
 
 ## Data Cleaning and Transformation
-* Data Cleaning: Removed irrelevant values and handled missing data to ensure the dataset's quality.
-Splitting Data: Split columns where necessary to create more meaningful data segments.
-Transformations: Applied various transformations in Power Query to prepare the data for analysis, such as:
+* Data Cleaning:* Removed irrelevant values and handled missing data to ensure the dataset's quality.
+* Splitting Data:* Split columns where necessary to create more meaningful data segments.
+*Transformations: * Applied various transformations in Power Query to prepare the data for analysis, such as:
 Normalizing data formats
 Creating new calculated columns
 Filtering out outliers and invalid entries
-Visualizations
+## Visualizations
 The following visualizations were created to provide insights into the survey data:
 
 1. Country of Survey Participants
